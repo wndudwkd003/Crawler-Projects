@@ -1,0 +1,3 @@
+paths:
+  driver_path: "C:\\Users\\ymail\\Development\\utils\\chromedriver-win64\\chromedriver.exe"
+  chrome_path: "C:\\Users\\ymail\\Development\\utils\\chrome-win64\\chrome.exe"

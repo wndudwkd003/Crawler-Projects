@@ -1,0 +1,8 @@
+# Ignore all files under EmojiCrawler/output/result
+EmojiCrawler/output/result/*
+
+# Exclude the directory itself from being ignored
+!EmojiCrawler/output/result/
+
+# Optionally, include specific files if needed
+# !EmojiCrawler/output/result/specific_file.ext
